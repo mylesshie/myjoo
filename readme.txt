@@ -3,4 +3,4 @@ add a line for readme text;
 git has a new line text;
 git has four lines text;
 test git push origin;
-to test new branch dev;
+to test new branch dev feature1;
